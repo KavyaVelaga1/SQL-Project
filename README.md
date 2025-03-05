@@ -1,6 +1,35 @@
-# SQL_Project
-The data used for this project pertains to company layoffs. 
+# Company Layoffs Data Analysis
 
-This project focuses on cleaning and preparing datasets related to these layoffs. The dataset contains columns such as company, location, industry, total_laid_off, percentage_laid_off, date, stage, country, and funds_raised_millions. 
+## Project Overview
 
-By removing duplicates, standardizing data formats, and handling null values, we aim to ensure high-quality data for subsequent analysis and reporting. Additionally, exploratory data analysis (EDA) has been performed to uncover insights and trends within the data.
+This project analyzes and processes data related to company layoffs.
+
+The primary focus is on cleaning, preparing, and transforming datasets that document these layoffs. The dataset includes key columns such as:
+
+- **Company**: The name of the company.
+- **Location**: The location of the layoffs.
+- **Industry**: The industry the company belongs to.
+- **Total_Laid_Off**: The total number of employees laid off.
+- **Percentage_Laid_Off**: The percentage of employees laid off.
+- **Date**: The date when the layoffs occurred.
+- **Stage**: The stage or phase of the layoffs.
+- **Country**: The country where the layoffs took place.
+- **Funds_Raised_Millions**: The amount of funds raised by the company in millions.
+
+## Data Cleaning & Preparation
+
+The data cleaning process involves:
+
+- **Removing duplicates** to ensure data integrity.
+- **Standardizing data formats** for consistency across columns.
+- **Handling missing values** to avoid inaccuracies in analysis.
+
+These steps ensure that the dataset is of high quality and suitable for analysis.
+
+## Exploratory Data Analysis (EDA)
+
+Following data preparation, **Exploratory Data Analysis (EDA)** is conducted to identify patterns, trends, and insights within the dataset. This helps in understanding the key factors driving layoffs and uncovering trends across different industries, locations, and time periods.
+
+## License
+
+Include your preferred licensing information here, if applicable.
