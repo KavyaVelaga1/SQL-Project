@@ -1,7 +1,7 @@
 SELECT * 
 FROM layoffs;
 
-<span style="color:blue;">Creating a staging table to work with</span>
+-- Creating a staging table to work with
 
 CREATE TABLE layoffs_stagging(
 	"company"	TEXT,
