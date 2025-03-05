@@ -29,7 +29,3 @@ These steps ensure that the dataset is of high quality and suitable for analysis
 ## Exploratory Data Analysis (EDA)
 
 Following data preparation, **Exploratory Data Analysis (EDA)** is conducted to identify patterns, trends, and insights within the dataset. This helps in understanding the key factors driving layoffs and uncovering trends across different industries, locations, and time periods.
-
-## License
-
-Include your preferred licensing information here, if applicable.
